@@ -157,16 +157,3 @@ To scale this pipeline in production:
 ### Quality Control
 - Low-confidence samples routed for human review
 - Periodic schema validation and audits
-
----
-
-## Engineering Judgment Notes
-
-This project emphasizes:
-- Robust handling of real-world scraping constraints  
-- Conservative and explainable enrichment logic  
-- Graceful failure handling instead of brittle assumptions  
-- Clear separation between scraping, cleaning, and enrichment stages  
-
-The solution is intentionally **simple, readable, and production-oriented**, aligned with Trackzio’s evaluation criteria.
-
