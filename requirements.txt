@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+numpy
+python-dotenv
+google-generativeai
+tqdm
